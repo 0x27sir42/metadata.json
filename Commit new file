@@ -2,9 +2,9 @@
   "name": "ZILLA",
   "symbol": "ZILA",
   "description": "💎🔥 ZILLA ($ZILA) — The Multichain Memecoin 🐉 Powered by Solana & BNB — with Polygon as its main hub. Where memes meet innovation, built for speed, community & creativity.",
-  "image": "https://raw.githubusercontent.com/0x27sir42/metadata/main/logo.svg",
+  "image": "https://raw.githubusercontent.com/0x27sir42/metadata.json/main/logo.svg",
   "website": "https://github.com/0x27sir42/metadata.json",
-  "explorer": "https://polygonscan.com/token/0x1c29703b5123E9A5eDBAc144e61f49ff6E505abd",
+  "explorer": "https://polygonscan.com/token/0x1c29703b5123E9A5eDBAc144...",
   "type": "ERC20",
   "decimals": 18,
   "socials": {
